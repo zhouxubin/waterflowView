@@ -28,6 +28,8 @@ waterflowView.frame = self.view.bounds;
 /** *  总共有多少列 */
 
 - (CGFloat)numberOfColumsOnWaterflowView:(XBWaterflowView *)waterflowView;
+ 
+---
 
 可选代理方法
 
