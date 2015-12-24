@@ -15,14 +15,10 @@ waterflowView.frame = self.view.bounds;
     
 @required 实现数据源方法
 
-/**
- *  总共有多少个cell
- */
+/** *  总共有多少个cell */
  
 - (CGFloat)numberOfCellsOnWaterflowView:(XBWaterflowView *)waterflowView;
 
-/**
- *  每个位置的cell
- */
+/** *  每个位置的cell */
  
 - (XBWaterflowViewCell *)waterflowView:(XBWaterflowView *)waterflowView cellAtIndex:(NSUInteger)index;
