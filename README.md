@@ -1,7 +1,7 @@
 # waterflowView
 一个简单的瀑布流控件,基本用法和tableview一样
 
-[Resize icon](https://github.com/zhouxubin/waterflowView/blob/master/waterflowView.gif)
+![Resize icon](https://github.com/zhouxubin/waterflowView/blob/master/waterflowView.gif)
 
 // 添加瀑布流控件
 
