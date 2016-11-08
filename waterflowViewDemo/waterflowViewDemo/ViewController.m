@@ -25,6 +25,7 @@
     waterflowView.frame = self.view.bounds;
     [self.view addSubview:waterflowView];
     UIButton *button = [[UIButton alloc] init];
+    UIButton *button2 = [[UIButton alloc] init];
 }
 
 #pragma mark - XBWaterflowViewDataSource
