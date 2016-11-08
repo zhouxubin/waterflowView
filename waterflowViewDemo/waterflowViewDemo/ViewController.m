@@ -29,7 +29,7 @@
     UIView *view = [[UIView alloc] init];
 
     UIButton *button = [[UIButton alloc] init];
-
+    UIButton *button3 = [[UIButton alloc] init];
 }
 
 #pragma mark - XBWaterflowViewDataSource
