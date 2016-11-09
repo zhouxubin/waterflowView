@@ -24,6 +24,7 @@
     waterflowView.delegate = self;
     waterflowView.frame = self.view.bounds;
     [self.view addSubview:waterflowView];
+    
 }
 
 #pragma mark - XBWaterflowViewDataSource
